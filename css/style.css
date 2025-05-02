@@ -368,7 +368,7 @@ header.sticky{
 .row img{
     max-width: 350px;
     min-width: 100%;
-    min-height: 375px;
+    min-height: 250px;
     max-height: 375px;
     border-radius: 10px;
     display: block;
@@ -483,11 +483,10 @@ header.sticky{
     margin: 3rem 0;
 }
 
-.container img{
+.container img {
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    top: 32px;
     margin: 2rem;
 }
 
