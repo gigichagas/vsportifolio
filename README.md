@@ -1,6 +1,6 @@
 
 ## Descrição
-Projeto de portfólio pessoal desenvolvido para apresentar habilidades, projetos e conectar potenciais clientes. O site é responsivo e foi criado com foco em usabilidade e design moderno.
+Projeto de portfólio pessoal desenvolvido para apresentar habilidades e projetos sobre mim. O site é responsivo e foi criado com foco em usabilidade e design moderno.
 
 ## Funcionalidades
 - Apresentação clara e objetiva dos projetos realizados
@@ -12,5 +12,3 @@ Projeto de portfólio pessoal desenvolvido para apresentar habilidades, projetos
 - HTML5  
 - CSS3  
 - JavaScript  
-- Favicon personalizado  
-- Controle de versão com Git  
